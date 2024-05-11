@@ -1,0 +1,47 @@
+1715401715455	geckodriver	INFO	Listening on 127.0.0.1:50719
+1715401718484	mozrunner::runner	INFO	Running command: "C:\\Users\\DEV-Igor\\.cache\\selenium\\firefox\\win64\\125.0.3\\firefox.exe" "--marionette" "--remote-debug ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DEV-Igor\\AppData\\Local\\Temp\\rust_mozprofileJDJdok"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715401718943	Marionette	INFO	Marionette enabled
+1715401719203	Marionette	INFO	Listening on port 50728
+WebDriver BiDi listening on ws://127.0.0.1:50720
+Read port: 50728
+1715401719494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50720/devtools/browser/c8a9808a-10e1-470c-8c7f-683c57c639e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ticketmais.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ticketmais.com.br."
+1715401751617	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6, line 170: Script terminated by timeout at:
+aa.has@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:170:314
+Ja.prototype.get@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:170:900
+Ja.prototype.get@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:170:950
+Na@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:171:335
+Uc.prototype.evaluate@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:198:72
+Od@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:223:212
+aa.invoke@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:197:308
+Na@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:171:465
+Ma@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:171:264
+Gd/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:221:20
+aa.invoke@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:197:308
+gH/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:668:491
+Dr@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:440:231
+aa.Dm@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:656:196
+aa.Cm/</<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:640:218
+el@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:341:438
+rl@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:344:153
+aa.Cm/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:640:204
+c@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:462:169
+tt@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:463:269
+aa.Cm@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:640:190
+c@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:661:675
+Tm@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:353:298
+Sm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:356:278
+Sm.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:354:207
+Lm@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:351:770
+yG/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:662:178
+aa.Mk/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:610:126
+aa.Mk/c/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:609:420
+
+1715401765941	Marionette	INFO	Stopped listening on port 50728
+Dynamically enable window occlusion 1

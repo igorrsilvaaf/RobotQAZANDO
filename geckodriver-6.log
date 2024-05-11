@@ -1,0 +1,39 @@
+1715401906869	geckodriver	INFO	Listening on 127.0.0.1:49597
+1715401909915	mozrunner::runner	INFO	Running command: "C:\\Users\\DEV-Igor\\.cache\\selenium\\firefox\\win64\\125.0.3\\firefox.exe" "--marionette" "--remote-debug ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DEV-Igor\\AppData\\Local\\Temp\\rust_mozprofilejVTH1Q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715401910482	Marionette	INFO	Marionette enabled
+1715401910809	Marionette	INFO	Listening on port 49610
+WebDriver BiDi listening on ws://127.0.0.1:49598
+Read port: 49610
+1715401911006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49598/devtools/browser/ec0f7dee-6475-454a-83a5-876fabaa4e13
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ticketmais.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://ticketmais.com.br."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6, line 175: Script terminated by timeout at:
+Xa@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:175:389
+aa.get@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:176:252
+Gd/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:220:455
+aa.invoke@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:197:308
+gH/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:668:491
+Dr@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:440:231
+aa.Dm@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:656:196
+aa.Cm/</<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:640:218
+el@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:341:438
+rl@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:344:153
+aa.Cm/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:640:204
+c@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:462:169
+tt@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:463:269
+aa.Cm@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:640:190
+c@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:661:675
+Tm@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:353:298
+Sm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:356:278
+Sm.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:354:207
+Lm@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:351:770
+yG/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:662:178
+aa.Mk/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:610:126
+aa.Mk/c/<@https://www.googletagmanager.com/gtag/js?id=G-WH36BHZZF6:609:420
+
+1715401934647	Marionette	INFO	Stopped listening on port 49610
+Dynamically enable window occlusion 1

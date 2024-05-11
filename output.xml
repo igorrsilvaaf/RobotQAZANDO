@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0 (Python 3.12.3 on win32)" generated="2024-05-11T01:33:05.213794" rpa="false" schemaversion="5">
+<suite id="s1" name="Teste" source="E:\MEGA\Cursos\qazando\Trilha Web\Robot\teste.robot">
+<test id="s1-t1" name="Cenário 2: Abrindo site ticket mais" line="64">
+<kw name="Acessar site da Ticket Mais">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2024-05-11T01:33:05.582942" level="INFO">Opening browser 'firefox' to base url 'https://ticketmais.com.br/'.</msg>
+<arg>${url_tkm}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2024-05-11T01:33:05.582942" elapsed="11.472730"/>
+</kw>
+<status status="PASS" start="2024-05-11T01:33:05.582431" elapsed="11.473241"/>
+</kw>
+<kw name="Sleep de 5s">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2024-05-11T01:33:22.067933" level="INFO">Slept 5 seconds.</msg>
+<arg>${sleep_5s}</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2024-05-11T01:33:17.066733" elapsed="5.001200"/>
+</kw>
+<status status="PASS" start="2024-05-11T01:33:17.063717" elapsed="5.004216"/>
+</kw>
+<kw name="Clicando no botao de login">
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2024-05-11T01:33:22.069455" level="INFO">Clicking element 'xpath=//a[@class='btn-login']'.</msg>
+<arg>xpath=//a[@class='btn-login']</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2024-05-11T01:33:22.068441" elapsed="1.067338"/>
+</kw>
+<status status="PASS" start="2024-05-11T01:33:22.068441" elapsed="1.068341"/>
+</kw>
+<kw name="Sleep de 3s">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2024-05-11T01:33:26.139308" level="INFO">Slept 3 seconds.</msg>
+<arg>${sleep_3s}</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2024-05-11T01:33:23.138783" elapsed="3.000525"/>
+</kw>
+<status status="PASS" start="2024-05-11T01:33:23.137780" elapsed="3.001528"/>
+</kw>
+<kw name="Inserir Email_tkm">
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-05-11T01:33:26.140321" level="INFO">Typing text 'igorrsilvaa920@gmail.com' into text field 'id:username'.</msg>
+<arg>id:username</arg>
+<arg>${user_email_tkm}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-05-11T01:33:26.140321" elapsed="0.171640"/>
+</kw>
+<status status="PASS" start="2024-05-11T01:33:26.139308" elapsed="0.173160"/>
+</kw>
+<kw name="Inserir Senha_tkm">
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2024-05-11T01:33:26.312979" level="INFO">Typing text '123' into text field 'id:password'.</msg>
+<arg>id:password</arg>
+<arg>${user_senha_tkm}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2024-05-11T01:33:26.312979" elapsed="0.102765"/>
+</kw>
+<status status="PASS" start="2024-05-11T01:33:26.312979" elapsed="0.102765"/>
+</kw>
+<kw name="Entrar na minha conta">
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2024-05-11T01:33:26.416749" level="INFO">Clicking button 'xpath=//input[@class='btn btn-info btn-block btn-large']'.</msg>
+<arg>xpath=//input[@class='btn btn-info btn-block btn-large']</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2024-05-11T01:33:26.416749" elapsed="1.457331"/>
+</kw>
+<status status="PASS" start="2024-05-11T01:33:26.416749" elapsed="1.457331"/>
+</kw>
+<kw name="Sleep de 3s">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2024-05-11T01:33:30.881628" level="INFO">Slept 3 seconds.</msg>
+<arg>${sleep_3s}</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2024-05-11T01:33:27.881095" elapsed="3.000533"/>
+</kw>
+<status status="PASS" start="2024-05-11T01:33:27.880098" elapsed="3.001530"/>
+</kw>
+<status status="PASS" start="2024-05-11T01:33:05.580920" elapsed="25.301215"/>
+</test>
+<status status="PASS" start="2024-05-11T01:33:05.216809" elapsed="25.666335"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Teste">Teste</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
